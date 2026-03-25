@@ -2,51 +2,44 @@
 ## Objective
 This analysis evaluates overall sales performance, focusing on revenue distribution across occasions, months, product categories, and geographic regions. The goal is to identify high-impact opportunities for marketing, inventory planning, and operational efficiency improvements.
 
+## Questions (KPIs)
+1.	Total Revenue: Identify the overall revenue.
+2.	Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
+3.	Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
+4.	Top Products by Revenue: Determine which products are the top revenue generators.
+5.	Customer Spending Analysis: Understand how much customers are spending on average.
+6.	Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
+7.	Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
+8.	Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times.
+9.	Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
+10.	Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
-##  Key Performance Highlights
-# Total Orders
-The dashboard indicates a Total Orders metric, serving as a baseline for volume analysis. While exact figures are not displayed, order volume correlates with revenue trends across occasions and months.
+## Process
+- Data Collection – Extracted transactional sales data (orders, revenue, product details, geography, timestamps) from CSV/database.
 
-## Revenue by Occasion
-Valentine’s Day emerges as a major revenue contributor, alongside other occasions such as Anniversary, Birthday, Diwali, and Holi.
+- Data Cleaning – Handled missing values, standardized formats, and derived key metrics like order‑delivery time and peak hours.
 
-These events drive significant spikes in sales, highlighting the importance of occasion‑based marketing.
+- Exploratory Analysis – Analyzed trends by month, occasion, product, and region to identify revenue drivers.
 
-## Revenue by Month
-Sales fluctuate throughout the year, with key months likely aligning with major occasions:
+- Dashboard Creation – Built interactive visualizations (revenue trends, top products, geographic performance) using Tableau/Power BI.
 
-January–February: Peak due to Valentine’s Day and related gifting.
+## Dashboard
+<img width="1679" height="705" alt="fnp sales " src="https://github.com/user-attachments/assets/fa986f8c-44a5-496c-a6fe-e7a0434968ff" />
 
-March–April: Moderate activity, possibly driven by Holi and spring events.
+## Project Insights
+- Occasion-driven demand – Valentine’s Day, Diwali, and birthdays generate the highest revenue spikes, highlighting the need for early, targeted campaigns.
 
-October–December: High activity due to Diwali and year‑end celebrations.
+- Seasonal concentration – Sales peak in Jan‑Feb and Oct‑Dec, accounting for the majority of annual revenue; inventory and marketing must align with these windows.
 
-## Revenue by Category
-The dashboard breaks down revenue by product categories. Although exact categories are not listed, the presence of sub‑categories like Accountants, Dolphin, Fish & Seafood, Freshwater, Natural, Oceanic suggests a mix of thematic or curated collections (possibly gifting products). Identifying top‑performing categories helps focus inventory and marketing efforts.
+- Top product performance – Items like Dolphin, Freshwater, and Oceanic collections consistently lead in revenue, ideal for bundling and cross‑selling.
 
-# Revenue by Hour (Order Time)
-Hourly revenue analysis provides insight into customer purchasing behavior. Peak ordering hours can guide staffing, customer support, and promotional scheduling.
+- Geographic hot spots – The top 10 cities drive most orders; focused logistics and local promotions in these areas can further boost share.
 
-# Order‑Deliver Time
-The Order‑Deliver Time metric evaluates fulfillment efficiency. Shorter delivery times correlate with higher customer satisfaction and repeat purchases.
+- Operational efficiency opportunity – Order‑delivery time and peak ordering hours (revealed by hourly revenue) present clear levers to improve customer satisfaction and repeat purchases.
 
-# Product & Geographic Insights
-# Top 5 Products by Revenue
-The top revenue‑generating products include:
-
-- Accountants
-
-- Dolphin
-
-- Fish & Seafood
-
-- Freshwater
-
-- Natural
-
-- Oceanic
-
-These likely represent high‑demand SKUs or curated gift sets. Understanding their contribution can inform bundling and cross‑selling strategies.
+## Conclusion
+The business demonstrates strong occasion‑driven sales, with clear seasonal patterns and top‑performing products. By leveraging these insights—optimizing inventory, targeting key cities, and streamlining fulfillment—the organization can enhance revenue, improve customer satisfaction, and sustain growth throughout the year.
+ 
 
 3.2 Top 10 Cities by Orders
 The dashboard tracks order concentration across cities. Identifying top cities allows for targeted regional promotions, optimized logistics, and localized advertising.
