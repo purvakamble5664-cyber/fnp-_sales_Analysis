@@ -7,12 +7,12 @@ This analysis evaluates overall sales performance, focusing on revenue distribut
 # Total Orders
 The dashboard indicates a Total Orders metric, serving as a baseline for volume analysis. While exact figures are not displayed, order volume correlates with revenue trends across occasions and months.
 
-# Revenue by Occasion
+## Revenue by Occasion
 Valentine’s Day emerges as a major revenue contributor, alongside other occasions such as Anniversary, Birthday, Diwali, and Holi.
 
 These events drive significant spikes in sales, highlighting the importance of occasion‑based marketing.
 
-# Revenue by Month
+## Revenue by Month
 Sales fluctuate throughout the year, with key months likely aligning with major occasions:
 
 January–February: Peak due to Valentine’s Day and related gifting.
@@ -21,7 +21,7 @@ March–April: Moderate activity, possibly driven by Holi and spring events.
 
 October–December: High activity due to Diwali and year‑end celebrations.
 
-# Revenue by Category
+## Revenue by Category
 The dashboard breaks down revenue by product categories. Although exact categories are not listed, the presence of sub‑categories like Accountants, Dolphin, Fish & Seafood, Freshwater, Natural, Oceanic suggests a mix of thematic or curated collections (possibly gifting products). Identifying top‑performing categories helps focus inventory and marketing efforts.
 
 # Revenue by Hour (Order Time)
